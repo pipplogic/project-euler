@@ -270,7 +270,7 @@ var problems = [
 
   {
     number: 8,
-    inputs: 'prob-8.json',
+    inputs: 'inputs/prob-8.json',
     solutions: [
       {
         name: 'naive',
@@ -431,7 +431,7 @@ problems.push({
 
 problems.push({
   number: 11,
-  inputs: {fileName: 'prob-11.txt', entries: 4},
+  inputs: {fileName: 'inputs/prob-11.txt', entries: 4},
   solutions: [
     {
       name: 'naive',
@@ -547,7 +547,7 @@ problems.push({
 /* File Example */
 problems.push({
   number: 13,
-  inputs: {fileName: 'prob-13.txt', digits: 10},
+  inputs: {fileName: 'inputs/prob-13.txt', digits: 10},
   solutions: [
     {
       name: 'naive',
@@ -735,7 +735,7 @@ problems.push({
 
 problems.push({
   number: 18,
-  inputs: ['prob-18.txt', 'prob-67.txt'],
+  inputs: ['inputs/prob-18.txt', 'inputs/prob-67.txt'],
   solutions: [
     {
       name: 'naive',
@@ -867,7 +867,7 @@ problems.push({
 
 problems.push({
   number: 22,
-  inputs: {fileName: 'prob-22.txt', digits: 10},
+  inputs: {fileName: 'inputs/prob-22.txt', digits: 10},
   solutions: [
     {
       name: 'naive',
